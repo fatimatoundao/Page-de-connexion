@@ -1,0 +1,23 @@
+body
+{
+    background-color :#CE0033;
+   
+}
+fieldset{
+    margin-left: 550px;
+    margin-right: 450px;
+    padding-bottom :10px ;
+    border: solid color 10px;
+    width: 200px;
+   
+    
+   
+}
+.titre {
+    text-align: left ;
+
+}
+h1 {
+    text-align:center;
+
+} 
